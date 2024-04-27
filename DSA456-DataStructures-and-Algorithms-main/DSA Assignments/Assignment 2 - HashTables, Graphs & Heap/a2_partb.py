@@ -1,4 +1,4 @@
-#    Main Author(s): Dev Soni
+#    Main Author(s): Jatin
 #    Main Reviewer(s): Sarah Haque
 
 # uncomment the following lines of code if you wish to make use of the linked list or hash table
