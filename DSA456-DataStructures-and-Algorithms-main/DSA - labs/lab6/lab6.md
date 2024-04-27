@@ -1,4 +1,4 @@
-*Author Name & E-Mail*: Dev Soni - dasoni4@myseneca.ca
+*Author Name & E-Mail*: Jatin - jatin4@myseneca.ca
 
 1. What sorting algorithm was the speaker trying to improve?
 ```
