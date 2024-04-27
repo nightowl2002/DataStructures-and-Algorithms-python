@@ -1,4 +1,4 @@
-#    Main Author(s): Dev Soni & Sarah Haque
+#    Main Author(s): Jatin
 #    Main Reviewer(s): Sarah Haque
 
 
