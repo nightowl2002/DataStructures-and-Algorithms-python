@@ -1,7 +1,6 @@
 # Lab 5 Reflection and Observations
 
-* Dev Soni
-* Carolina
+* Jatin
 
 ## Heap Insertion
 
