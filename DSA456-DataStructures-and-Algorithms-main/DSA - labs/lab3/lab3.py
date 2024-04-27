@@ -1,6 +1,6 @@
 #
-# Author: Dev Soni
-# Student Number: 130759210
+#  Author: Jatin.
+# Student Number: 141358218.
 #
 # Place the code for your lab 3 here.  Read the specs carefully.  
 # Function name must be exactly as provided.  
