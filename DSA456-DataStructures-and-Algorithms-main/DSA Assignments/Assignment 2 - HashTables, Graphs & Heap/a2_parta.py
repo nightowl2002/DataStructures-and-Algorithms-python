@@ -1,5 +1,5 @@
 #    Main Author(s): Sarah Haque 
-#    Main Reviewer(s): Dev Soni
+#    Main Reviewer(s): Jatin
 
 # If you are doing chaining for collision resolution, 
 # copy your code from a1 into a1_partb.py and uncomment the next line
