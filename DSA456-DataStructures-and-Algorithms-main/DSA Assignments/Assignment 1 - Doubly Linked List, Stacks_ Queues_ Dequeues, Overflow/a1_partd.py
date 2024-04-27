@@ -1,5 +1,5 @@
-#    Main Author(s): Sarah Haque, Dev Soni
-#    Main Reviewer(s): Dev Soni,Sarah Haque
+#    Main Author(s): Sarah Haque,Jatin
+#    Main Reviewer(s): Jatin,Sarah Haque
 
 # Since, we were just 2 people in the group we divided this part with 
 # one function to each member thats why we have 2 names here of us, Sarah and Dev, for both- Main Author, Main Reviewer.
