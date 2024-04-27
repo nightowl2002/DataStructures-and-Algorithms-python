@@ -1,7 +1,6 @@
 # Lab 4 Reflection and Observations
 
-* Dev Soni
-* Ruslin
+* Jatin
 
 ## Simple sorts
 
@@ -48,14 +47,13 @@
 
 |Team member | Sorting time|
 |---|---|
-| Dev Soni | 01:50:09 |
-| Ruslin   | 03:25:03 |
+| Jatin | 01:50:09 |
 
 What was fastest time?
-Dev Soni was the fastest time with 1:50
+Jatin was the fastest time with 1:50
 
 Describe the algorithm produced by the team member with fastest time.
-I (Dev Soni) used the method of sorting them by 10s and then arranging them after which seems like it reduces the time to move them 
+I used the method of sorting them by 10s and then arranging them after which seems like it reduces the time to move them 
 to make space for the new numbers. This seemed like the faster method because it is similar to the merging sorted method oh somewhat 
 sorted and making the full list of numbers compared to an entire unsorted pile which will take longer to sort through
 
@@ -84,5 +82,5 @@ sorted and making the full list of numbers compared to an entire unsorted pile w
 	way with the partitioning method that we did near the end.
 
 * Mix up all your numbers and have each member of the team perform the sort you did.  How long did it take?
-        Ruslin: 03:04:90
-	Dev: 01:46:56
+       
+	Jatin: 01:46:56
